@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teacher Page</title>
+</head>
+<body>
+    <h2>Welcome Teacher {{ username }}</h2>
+
+    <form action="{{ url_for('teacher_success', username=username) }}" method="post" enctype="multipart/form-data">
+        <label for="question_document">Upload Questions:</label>
+        <input type="file" name="question_document" accept=".txt">
+        <br>
+        <label for="answer_document">Upload Answers:</label>
+        <input type="file" name="answer_document" accept=".txt">
+        <br>
+        <input type="hidden" name="username" value="{{ username }}">
+        <input type="submit" value="Upload">
+    </form>
+
+    {% if message %}
+        <p>{{ message }}</p>
+    {% endif %}
+
+    <br>
+    <a href="{{ url_for('index') }}">Go back to Index</a>
+</body>
+</html>

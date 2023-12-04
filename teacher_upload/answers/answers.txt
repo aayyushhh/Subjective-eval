@@ -1,0 +1,15 @@
+
+1)Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.
+
+
+2)Machine learning (ML) is a type of artificial intelligence (AI) focused on building computer systems that learn from data. The broad range of techniques ML encompasses enables software applications to improve their performance over time.
+
+
+3)Deep learning is a subset of machine learning that uses artificial neural networks to learn and improve on its own by examining computer algorithms.It is capable of learning complex patterns and relationships within data and is capable of performing classification tasks and recognizing patterns in photos, text, audio, and other various data.
+
+
+4)Deep learning is a subset of machine learning that uses artificial neural networks to mimic the learning process of the human brain.In short, machine learning is AI that can automatically adapt with minimal human interference.
+
+
+
+5)It is the field of study that involves collecting, analyzing, and interpreting large sets of data to uncover insights, patterns, and trends that can be used to make informed decisions and solve real-world problems.

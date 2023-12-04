@@ -1,0 +1,9 @@
+1.What is Artificial Intelligence?
+
+2. What is meaning of machine learning?
+
+3. What is deep learning?
+
+4. What is difference between ml and deep learning?
+
+5. What is Data science?

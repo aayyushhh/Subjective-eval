@@ -1,0 +1,7 @@
+
+
+1)Artificial intelligence is the simulation of hum intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural languge processing.
+
+
+
+ 2)Machine is a type of (AI) focused on building computer syste that learn from data. The brod range of techniques ML encompasses enables software applications to improve their perfrmance over time.
